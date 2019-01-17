@@ -1,0 +1,6 @@
+projectKey=com.griddynamics.igtretyakov:sonar
+serverUrl=http://localhost:9001
+serverVersion=7.5.0.20543
+dashboardUrl=http://localhost:9001/dashboard?id=com.griddynamics.igtretyakov%3Asonar
+ceTaskId=AWhb5MJw2Inv3drZydhr
+ceTaskUrl=http://localhost:9001/api/ce/task?id=AWhb5MJw2Inv3drZydhr
